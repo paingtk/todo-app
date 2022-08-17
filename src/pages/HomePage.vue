@@ -63,11 +63,12 @@ div.todo-list {
 div.list-item {
   display: flex;
   justify-content: space-between;
-  margin: 2rem 0;
+  margin: 3rem 0;
 }
 
 p {
   font-size: 22px;
   font-weight: 500;
+  margin: 0;
 }
 </style>
